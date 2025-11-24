@@ -89,7 +89,6 @@ https://raw.githubusercontent.com/tuanminpay/live-proxy/master/all.txt
 https://raw.githubusercontent.com/tuanminpay/live-proxy/master/http.txt
 https://raw.githubusercontent.com/tuanminpay/live-proxy/master/socks4.txt
 https://raw.githubusercontent.com/tuanminpay/live-proxy/master/socks5.txt
-
 https://raw.githubusercontent.com/andigwandi/free-proxy/main/proxy_list.txt
 https://raw.githubusercontent.com/AGDDoS/AGProxy/master/proxies/all.txt
 https://raw.githubusercontent.com/AGDDoS/AGProxy/master/proxies/http.txt
