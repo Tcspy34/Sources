@@ -2316,6 +2316,7 @@ https://raw.githubusercontent.com/TryHarder-L/proxyList/main/socks5.txt
 https://raw.githubusercontent.com/TryHarder-L/proxyList/main/socks4.txt
 https://raw.githubusercontent.com/TryHarder-L/proxyList/main/http.txt
 https://raw.githubusercontent.com/cmaster324-cell/free-proxy-list/main/proxy5.txt
+https://raw.githubusercontent.com/clarketm/proxy-list/refs/heads/master/proxy-list.txt
 http://www.sslproxies.org/
 http://www.us-proxy.org/
 http://www.socks-proxy.net/
@@ -3308,3 +3309,4 @@ https://iproyal.com/free-proxy-list/?page=684
 https://iproyal.com/free-proxy-list/?page=685
 https://iproyal.com/free-proxy-list/?page=686
 https://iproyal.com/free-proxy-list/?page=687
+https://raw.githubusercontent.com/clarketm/proxy-list/refs/heads/master/proxy-list.txt
