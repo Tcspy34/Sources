@@ -3964,3 +3964,4 @@ https://raw.githubusercontent.com/igoryokhin/my-proxy-list/refs/heads/main/resul
 https://raw.githubusercontent.com/igoryokhin/my-proxy-list/refs/heads/main/results/shadowsocks/shadowsocks_ping_0-20_working_proxies_base64.txt
 https://raw.githubusercontent.com/snove999/emby-proxy-list/refs/heads/main/output/all.txt
 https://raw.githubusercontent.com/gastonochoa24/MiProxyList/refs/heads/main/socks5.txt
+https://proxylist.geonode.com/api/proxy-list?limit=500&page=1&sort_by=lastChecked&sort_type=desc
