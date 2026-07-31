@@ -1761,11 +1761,6 @@ https://proxydb.net/?offset=8400
 https://proxyelite.info/free-proxy-list/
 https://proxiatyomia.blogspot.com/feeds/posts/default
 http://free-proxy-list.net/uk-proxy.html
-http://www.proxylisty.com/anonymity/Elite-ip-list
-http://www.proxylisty.com/country/United%20States-ip-list
-http://www.proxylisty.com/country/United%20Kingdom-ip-list
-http://www.proxylisty.com/anonymity/Anonymous%20proxy-ip-list
-http://www.proxylisty.com/anonymity/Anonymous-ip-list
 http://www.atomintersoft.com/high_anonymity_elite_proxy_list
 http://aliveproxy.com/anonymous-proxy-list
 http://aliveproxy.com/ca-proxy-list
